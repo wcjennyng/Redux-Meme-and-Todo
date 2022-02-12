@@ -1,0 +1,31 @@
+form {
+    align-items: center;
+    flex-direction: column;
+}
+
+form label {
+    padding: 10px;
+    margin-right: 2px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form button {
+    margin-left: 4px;
+    border-radius: 10px;
+    padding: 4px;
+    font-size: 1em;
+    color: white;
+    background-color: lightgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form button:hover {
+    background-color: green;
+    cursor: pointer;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+

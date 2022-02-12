@@ -1,0 +1,46 @@
+.container {
+    position: relative;
+}
+
+.container img {
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 6px;
+}
+
+.container span {
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+}
+
+.top-text {
+    top: 40px;
+}
+
+.bot-text {
+    bottom: 60px;
+}
+
+#del-meme {
+    border-radius: 5px;
+    padding: 5px;
+    background-color: darkgray;
+    color: white;
+    display: block;
+    margin: auto;
+    font-size: 1em;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#del-meme:hover {
+    background-color: black;
+    cursor: pointer;
+}

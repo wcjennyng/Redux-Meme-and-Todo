@@ -1,0 +1,18 @@
+button {
+    border-radius: 5px;
+    padding: 1px;
+    font-size: .75em;
+    color: white;
+    background-color: #e91e63;
+  }
+  
+button:hover {
+    background-color: #c2185b;
+    cursor: pointer;
+  }
+
+li {
+    list-style-type: square;
+    font-family: 'Courier New', Courier, monospace;
+}
+
